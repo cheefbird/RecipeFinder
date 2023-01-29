@@ -3,8 +3,8 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:logging/logging.dart';
 import 'package:provider/provider.dart';
-import 'data/memory_repository.dart';
 
+import 'data/memory_repository.dart';
 import 'ui/main_screen.dart';
 
 Future<void> main() async {
